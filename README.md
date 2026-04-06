@@ -5,7 +5,7 @@
 Predicts movie revenue using regression models on the TMDB dataset.
 Compares baseline and advanced models to evaluate the impact of feature engineering.
 
-⸻
+---
 
 🚀 Models
 	•	Baseline (Simple Linear Regression)
@@ -15,7 +15,7 @@ Compares baseline and advanced models to evaluate the impact of feature engineer
 	•	Polynomial Regression
 	•	Captures nonlinear relationships (prone to overfitting)
 
-⸻
+---
 
 📈 Results
 	•	Baseline RSE: ~1.47
@@ -24,7 +24,7 @@ Compares baseline and advanced models to evaluate the impact of feature engineer
 
 👉 Multiple regression achieved the best performance.
 
-⸻
+---
 
 🧠 Key Contributions
 	•	Feature engineering from structured and categorical data
@@ -32,13 +32,13 @@ Compares baseline and advanced models to evaluate the impact of feature engineer
 	•	Model comparison using RSE
 	•	Time-based evaluation (pre/post 2010 distribution shift)
 
-⸻
+---
 
 📉 Note
 
 Visualization is shown against log(Budget) for interpretability and comparison with the baseline model.
 
-⸻
+---
 
 🛠️ Tech Stack
 
